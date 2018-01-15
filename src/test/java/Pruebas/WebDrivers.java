@@ -1,0 +1,6 @@
+package Pruebas;
+
+
+public enum WebDrivers {
+	CHROME, FIREFOX, IEXPLORER, GHOSTDRIVER, EDGE, DESKTOP, HTML_UNIT, CHROME_MOBILE ,ANDROID
+}
